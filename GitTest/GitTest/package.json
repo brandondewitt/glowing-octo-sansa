@@ -1,0 +1,15 @@
+{
+  "name": "GitTest",
+  "version": "0.0.0",
+  "description": "GitTest",
+  "main": "app.js",
+  "author": {
+    "name": "brandondewitt",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
