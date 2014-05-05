@@ -3,6 +3,6 @@
  * GET product page.
  */
 
-exports.index = function(req, res){
+exports.list = function(req, res){
   res.render('product', { title: 'Product Page' });
 };
